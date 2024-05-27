@@ -1,0 +1,7 @@
+__pycache__
+logs
+plugins
+venv*
+
+
+*dev_*
